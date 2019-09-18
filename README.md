@@ -1,4 +1,6 @@
 [![Build Status](https://travis-ci.com/atiqzaman-dsi/my-type-app.svg?branch=master)](https://travis-ci.com/atiqzaman-dsi/my-type-app)
+[![codecov](https://codecov.io/gh/atiqzaman-dsi/my-type-app/branch/master/graph/badge.svg)](https://codecov.io/gh/atiqzaman-dsi/my-type-app)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
