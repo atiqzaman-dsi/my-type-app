@@ -2,13 +2,10 @@ language: node_js
 node_js:
   - "stable"
 install:
-  - npm install -g codecov
+  - yarn add -g codecov
 cache:
   directories:
   - node_modules
 script:
-  - npm test
+  - yarn test
   - codecov
-  - npm run build
-after_success:
-  - bash < (curl -s https://codecov.io/bash)
