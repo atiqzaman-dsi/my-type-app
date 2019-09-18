@@ -2,7 +2,7 @@ language: node_js
 node_js:
   - "stable"
 install:
-  - yarn add -g codecov
+  - npm install -g codecov
 cache:
   directories:
   - node_modules
